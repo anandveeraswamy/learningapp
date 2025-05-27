@@ -1,0 +1,7 @@
+C:\Users\User\Downloads\tmp\project1\bin\Publish\project1.exe
+C:\Users\User\Downloads\tmp\project1\bin\Publish\appsettings.Development.json
+C:\Users\User\Downloads\tmp\project1\bin\Publish\appsettings.json
+C:\Users\User\Downloads\tmp\project1\bin\Publish\project1.dll
+C:\Users\User\Downloads\tmp\project1\bin\Publish\project1.deps.json
+C:\Users\User\Downloads\tmp\project1\bin\Publish\project1.runtimeconfig.json
+C:\Users\User\Downloads\tmp\project1\bin\Publish\project1.pdb
